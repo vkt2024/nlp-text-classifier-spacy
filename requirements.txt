@@ -1,0 +1,6 @@
+spacy==3.5.1  # Ensure compatibility with text classification
+flask==2.2.5  # API deployment using Flask
+gunicorn==20.1.0  # Optional: For production server
+numpy==1.23.5  # Dependency required by spaCy
+requests==2.31.0  # To send API requestspip install spacy
+
